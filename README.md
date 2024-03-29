@@ -25,4 +25,5 @@ Sale invoice: (sale_id, total_products, total_price, product_id, customer_id)
 
 Inventory: (product_id, product_name, products_in_total, Medicine_no)
 
-
+ENTITY RELATIONSHIP DIAGRAM
+![Uploading image (1).png…]()
