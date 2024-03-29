@@ -3,7 +3,6 @@ THIS PROJECT IS ON THE PHARMACEUTICAL DATABASE THAT IS CREATED SOLELY USING SQL 
 Components of Database Design
 
 Entities:
-(Primary keys represented using  “underline” and foreign keys using “bold” )
 
 Employee: (empID, emp_Username, Password, Name, Contact_info, Address, Sex, DOB, Shift_time) 
 
